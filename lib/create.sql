@@ -20,4 +20,4 @@ CREATE TABLE pledges (
   amount REAL
 );
 
-INSERT INTO (name, age) users VALUES("Valerie", 26);
+INSERT INTO users(name, value) VALUES("Valerie", 26);
