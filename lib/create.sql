@@ -19,3 +19,5 @@ CREATE TABLE pledges (
   project_id INTEGER,
   amount REAL
 );
+
+INSERT (name, age) INTO users VALUES("Valerie", 26);
