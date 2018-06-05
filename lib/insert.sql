@@ -29,3 +29,5 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Revolutionary programming toy", "Merchandise", 20000.00, "June 2, 2018", "June 31, 2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Bamboo bacteria resistant bathroom mat", "Merchandise", 5500.00, "June 6, 2018", "June 31, 2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Travel Gear", "Merchandise", 30000.00, "January 6, 2018", "January 31, 2018");
+
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
