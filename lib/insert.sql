@@ -19,4 +19,4 @@ INSERT INTO users(name, age) VALUES("Kailyn", 42);
 INSERT INTO users(name, age) VALUES("Happy", 35);
 INSERT INTO users(name, age) VALUES("Dr Dre", 36);
 
-INSERT INTO projects VALUES ("Travel Gear", 30000.00, "January 6, 2018", "January 31, 2018");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Travel Gear", "Merchandise", 30000.00, "January 6, 2018", "January 31, 2018");
