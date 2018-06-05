@@ -31,3 +31,23 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Travel Gear", "Merchandise", 30000.00, "January 6, 2018", "January 31, 2018");
 
 INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (300.50, 2, 9);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (100.50, 3, 7);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (150.50, 4, 3);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.00, 5, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 6, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 7, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 2, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (200.50, 1, 10);
