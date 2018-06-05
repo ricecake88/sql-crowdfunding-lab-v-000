@@ -1,5 +1,5 @@
 CREATE TABLE projects (
-  project_id INTEGER PRIMARY KEY,
+  id INTEGER PRIMARY KEY,
   title TEXT,
   category TEXT,
   funding_goal REAL,
@@ -8,7 +8,7 @@ CREATE TABLE projects (
 )
 
 CREATE TABLE users (
-  user_id INTEGER PRIMARY KEY,
+  id INTEGER PRIMARY KEY,
   name TEXT,
   age INTEGER
 )
